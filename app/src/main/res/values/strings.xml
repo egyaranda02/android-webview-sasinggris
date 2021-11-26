@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sastra Inggris Unpad</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Sastra Inggris UNPAD</string>
+    <string name="nav_header_subtitle">english.fib@unpad.ac.id</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_staff">Staff</string>
+    <string name="menu_kurikulum">Kurikulum</string>
+    <string name="menu_lulusan">Profil Lulusan</string>
+</resources>
