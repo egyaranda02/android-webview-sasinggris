@@ -11,4 +11,5 @@
     <string name="menu_staff">Staff</string>
     <string name="menu_kurikulum">Kurikulum</string>
     <string name="menu_lulusan">Profil Lulusan</string>
+    <string name="menu_fasilitas">Fasilitas</string>
 </resources>

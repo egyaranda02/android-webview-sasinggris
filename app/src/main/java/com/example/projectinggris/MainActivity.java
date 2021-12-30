@@ -92,6 +92,8 @@ public class MainActivity extends AppCompatActivity
             wv.loadUrl("file:///android_asset/kurikulum.html");
         }else if (id == R.id.nav_lulusan) {
             wv.loadUrl("file:///android_asset/profil_lulusan.html");
+        }else if (id == R.id.nav_fasilitas) {
+            wv.loadUrl("file:///android_asset/fasilitas.html");
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
